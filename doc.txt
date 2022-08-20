@@ -1,0 +1,6 @@
+To-Do:
+    > Add feature to allow user to keep original filename when renaming (use character codes)
+
+Log:
+2022-7-9:
+    > Project started.
