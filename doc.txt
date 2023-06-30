@@ -1,0 +1,14 @@
+To-Do:
+    > Add feature to allow user to keep original filename when renaming (use character codes)
+    > Add manual directory text entry
+    > Add formatting options to renamed files (dates, etc), basically expand renaming abilities.
+    > Revamp UI.
+    > Make CLI version.
+    > Test!
+
+Log:
+2022-7-9:
+    > Project started.
+
+2023-6-30:
+    > Project updated to use virtual environments.
