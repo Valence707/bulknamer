@@ -4,7 +4,7 @@ To-Do:
     > Add formatting options to renamed files (dates, etc), basically expand renaming abilities.
     > Revamp UI.
     > Make CLI version.
-    > Test!
+    > Refactor code (turn GUI into a class)
 
 Log:
 2022-7-9:
